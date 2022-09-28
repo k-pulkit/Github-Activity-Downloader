@@ -1,0 +1,4 @@
+# ignore virtual env and libs
+ghad-venv/*
+ghalib/*
+__pycache__/*
